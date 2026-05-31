@@ -63,14 +63,20 @@ Interact with Kuze through the console
 
 # Future Enhancements
   -> Load responses from a database
+  
   -> Add conversation memory
+  
   -> Add GUI interface
+  
   -> Add more response categories
+  
   -> Integrate with job-tracking APIs
 
 # Author
 Tye Tosh
+
 Java Developer & IT Specialist
+
 Queens, NY
 
 #License
