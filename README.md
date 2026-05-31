@@ -44,6 +44,7 @@ Kuze detects this and ends the sessions gracefully.
 
 # PROJECT STRUCTURE
 src/
+
  └── Kuze.java
 
 # How to Run
