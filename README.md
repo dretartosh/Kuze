@@ -5,13 +5,18 @@ Kuse uses placeholder replacement (progName, username) to create dynamice, human
 
 # FEATURES
   > Personalized chatbot responses
+
   > Dynamic placeholder replacement
+
   > Multiple response categories
       - Questions
       - Statements
       - Excitements
+
   > Sentinel keyword detection for exiting conversation
+
   > OOD
+
   > Fully documented with Javadoc
 
 # HOW IT WORKS
@@ -24,6 +29,7 @@ Kuze loads three response banks at startup:
 
 Each response contains placeholders:
   > progName -> replaced with chatbot name
+
   > username -> replaced with user's name
 
 	> Example:
