@@ -17,7 +17,9 @@ Kuse uses placeholder replacement (progName, username) to create dynamice, human
 # HOW IT WORKS
 Kuze loads three response banks at startup:
   > questions[]
+
   > statements[]
+
   > excitements[]
 
 Each response contains placeholders:
