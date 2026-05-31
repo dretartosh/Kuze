@@ -22,11 +22,11 @@ Kuse uses placeholder replacement (progName, username) to create dynamice, human
 
 # HOW IT WORKS
 Kuze loads three response banks at startup:
-  > questions[]
+  > questions [ ]
 
-  > statements[]
+  > statements [ ]
 
-  > excitements[]
+  > excitements [ ]
 
 Each response contains placeholders:
   > progName -> replaced with chatbot name
