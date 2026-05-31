@@ -46,6 +46,9 @@ Kuze detects this and ends the sessions gracefully.
 src/
 
  └── Kuze.java
+ └── LICENSE
+ └── README.md
+ └── .gitignore
 
 # How to Run
 Clone the repository
