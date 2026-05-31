@@ -45,10 +45,13 @@ Kuze detects this and ends the sessions gracefully.
 # PROJECT STRUCTURE
 src/
 
- └── Kuze.java
- └── LICENSE
- └── README.md
- └── .gitignore
+   └── Kuze.java
+ 
+   └── LICENSE
+ 
+   └── README.md
+ 
+   └── .gitignore
 
 # How to Run
 Clone the repository
