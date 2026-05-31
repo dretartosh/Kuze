@@ -1,6 +1,7 @@
 # KUZE Chatbot Engine
 A java-based chatbot designed to help users track job applications by generating personalized
 questions, statements and excitement responses.
+
 Kuse uses placeholder replacement (progName, username) to create dynamice, human-like interactions
 
 # FEATURES
@@ -37,8 +38,9 @@ Each response contains placeholders:
 		Display: "Hi, I am KUZE. How are you today, TYE?"
 
 # SENTINEL EXIT KEYWORD
-Users can exit the conversation by entering "SENTINEL". Kuze detects this and
-ends the sessions gracefully.
+Users can exit the conversation by entering "SENTINEL". 
+
+Kuze detects this and ends the sessions gracefully.
 
 # PROJECT STRUCTURE
 src/
@@ -46,8 +48,11 @@ src/
 
 # How to Run
 Clone the repository
+
 Open the project in your Java IDE
+
 Compile and run your main application (e.g., JobApplication.java)
+
 Interact with Kuze through the console
 
 
