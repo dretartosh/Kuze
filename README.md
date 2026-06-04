@@ -65,7 +65,7 @@ Interact with Kuze through the console
 
 # Example Interaction
      Hello, I am a Chatbot, ready to help to track your Job Applications.
-     Enter your name: Andre
+     Enter your name: tye
 
      Kuze: Hi, I am KUZE. How are you today, TYE?
      Tye: I am good!
